@@ -1,3 +1,4 @@
+
 # My Weather Dashboard
 
 >>A weather web-app that allows users to search for current city and get the current day foreacast. 
@@ -5,7 +6,7 @@
 Link to experience the deploy Project >> "(Link)"
 
 ## Mock-up for 
- /Users/eulaliegeonzon/Documents/HomeWorks/WeatherDashboard-/Assets/Mock-Up-Image
+![Weather Demo Mock-up](https://user-images.githubusercontent.com/45496074/119739022-9bc4ec80-be4f-11eb-9562-99e34395530b.png)
 
 
 ## Acceptance Criteria 
