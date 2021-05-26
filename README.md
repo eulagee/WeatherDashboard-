@@ -26,12 +26,11 @@ THEN I am again presented with current and future conditions for that city
 
 ### Built With 
 
-[Bootstrap](https://getbootstrap.com/)
-[Moment.Js](https://momentjs.com/)
-[Weather API's](https://openweathermap.org/api)
-[Vanilla Js]
-[HTML]
-[I'm an inline-style link](https://www.google.com)
+*[Bootstrap](https://getbootstrap.com/)
+*[Moment.Js](https://momentjs.com/)
+*[Weather API's](https://openweathermap.org/api)
+*[Vanilla Js]
+*[HTML]
 
 ## Final Product
 
