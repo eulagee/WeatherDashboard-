@@ -6,6 +6,7 @@ Link to experience the deploy Project >> "(Link)"
 
 ## Mock-up for 
  // Add folder link to read me later //
+ (./Assets/06-server-side-apis-homework-demo.png)
 
 
 ## Acceptance Criteria 
@@ -29,8 +30,8 @@ THEN I am again presented with current and future conditions for that city
 * [Bootstrap](https://getbootstrap.com/)
 * [Moment.Js](https://momentjs.com/)
 * [Weather API's](https://openweathermap.org/api)
-* [Vanilla Js]
-* [HTML]
+* Vanilla Js
+* HTML
 
 ## Final Product
 
