@@ -30,6 +30,7 @@ THEN I am again presented with current and future conditions for that city
 * [Bootstrap](https://getbootstrap.com/)
 * [Moment.Js](https://momentjs.com/)
 * [Weather API's](https://openweathermap.org/api)
+* FontAwesome
 * Vanilla Js
 * HTML
 
