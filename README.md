@@ -5,8 +5,7 @@
 Link to experience the deploy Project >> "(Link)"
 
 ## Mock-up for 
- // Add folder link to read me later //
- (./Assets/06-server-side-apis-homework-demo.png)
+ /Users/eulaliegeonzon/Documents/HomeWorks/WeatherDashboard-/Assets/Mock-Up-Image
 
 
 ## Acceptance Criteria 
