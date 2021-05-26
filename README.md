@@ -5,7 +5,7 @@
 
 Link to experience the deploy Project >> "(Link)"
 
-## Mock-up for 
+## Mock-up 
 ![Weather Demo Mock-up](https://user-images.githubusercontent.com/45496074/119739022-9bc4ec80-be4f-11eb-9562-99e34395530b.png)
 
 
