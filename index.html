@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <!--FontAwesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <!--Style CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet" />
+</head>
+
+
+<body>
+    <section class="hero is-primary">
+        <div class="hero-body">
+            <p class="title">
+                Primary hero
+            </p>
+    </section>
+    <!--<div class="app wrap">
+        <header>
+            <div id="header" class="jumbotron jumbotron-fluid">
+                <h1 id="header-text" class="display-2"></h1>
+            </div> !-->
+    </header>
+
+    <main class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-md-3 p-2 search column">
+                <form class="border p-2" id="city-search-form">
+                    <h2> Search for City</h2>
+                    <input id="search-for-city" class="form-control" name="city" value="San Diego">
+                    <button id="search-button" class="btn btn-primary" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+                <div class="past-seach border" id="history"></div>
+            </div>
+            <div class="col-12 col-md-9">
+                <div class="row borders selected-city" id="current-forecast">
+                    <div class="col-12">
+                        <h2 id="searched-city"></h2>
+                        <div id="current-weather-container" class="list-group">
+                            <img src="" id="current-pic" width="100" />
+                            <div id="temperature"></div>
+                            <div id="humidity"></div>
+                            <div id="wind-speed"></div>
+                            <div id="UV-index"></div>
+
+
+                        </div>
+                    </div>
+                    <div class="row border" id="list-group"></div>
+                </div>
+                <div class="row border" id="5-Day Forecast">
+                    <h2 class="col-12" id="forecast">5-Day Forecast</h2>
+                    <div class="d-flex" id="5-day-container">
+                        <div class="forecast card">
+
+                        </div>
+                        <div class="forecast card">
+
+                        </div>
+                        <div class="forecast card">
+
+                        </div>
+                        <div class="forecast card">
+
+                        </div>
+                        <div class="forecast card">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </main>
+
+    </div>
+    </div>
+    </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.22.0/axios.min.js" integrity="sha512-m2ssMAtdCEYGWXQ8hXVG4Q39uKYtbfaJL5QMTbhl2kc6vYyubrKHhr6aLLXW4ITeXSywQLn1AhsAaqrJl8Acfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"></script>
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
